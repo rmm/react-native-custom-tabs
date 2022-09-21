@@ -1,0 +1,7 @@
+com/github/droibit/android/reactnative/customtabs/CustomTabsModule.java
+ com.github.droibit.android.reactnative.customtabs.CustomTabsModule
+ com.github.droibit.android.reactnative.customtabs.CustomTabsModule$1
+com/github/droibit/android/reactnative/customtabs/CustomTabsPackage.java
+ com.github.droibit.android.reactnative.customtabs.CustomTabsPackage
+com/github/droibit/android/reactnative/customtabs/BuildConfig.java
+ com.github.droibit.android.reactnative.customtabs.BuildConfig
